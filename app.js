@@ -6,4 +6,9 @@
     app.listen(process.env.port || config.port, function(){
         console.log("server started !") 
     });
+    
+    app.get('*', function (req, res) {
+      res.send('Hello World!')
+    })
+
 }())
