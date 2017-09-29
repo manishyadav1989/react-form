@@ -1,0 +1,20 @@
+{
+  "name": "bots",
+  "version": "1.0.0",
+  "description": "chat bots",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "chat",
+    "bot",
+    "bots",
+    "bot"
+  ],
+  "author": "Yuvraj Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.5"
+  }
+}

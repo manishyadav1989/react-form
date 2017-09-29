@@ -1,0 +1,29 @@
+{
+  "name": "bots",
+  "description": "chat bots",
+  "main": "index.html",
+  "authors": [
+    "Yuvraj Yadav"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "chat",
+    "bot",
+    "bots",
+    "bot"
+  ],
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^16.0.0",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.7"
+  }
+}
