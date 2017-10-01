@@ -1,3 +1,5 @@
 .c9
 .git
 node_modules
+client/bower_components/bootstrap
+client/bower_components/jquery

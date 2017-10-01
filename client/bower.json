@@ -22,7 +22,6 @@
     "tests"
   ],
   "dependencies": {
-    "react": "^16.0.0",
     "bootstrap": "^3.3.7",
     "jquery": "^3.3.7"
   }
